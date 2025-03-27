@@ -1,9 +1,5 @@
 # PhiSiFi
-<p align="center">
-<a href="https://github.com/p3tr0s/PhiSiFi/"><img title="Tool" src="https://img.shields.io/badge/Tool-PhiSiFi-green"></a>
-<img title="Version" src="https://img.shields.io/badge/Version-1.0-green">
-<img title="Support" src="https://img.shields.io/badge/Support-No-red">
-</p>
+
 
 ## A franken baby of [M1z23R/ESP8266-EvilTwin](https://github.com/M1z23R/ESP8266-EvilTwin) and [adamff1/ESP8266-Captive-Portal](https://github.com/adamff1/ESP8266-Captive-Portal).
 
@@ -44,10 +40,7 @@ Please check the legal regulations in your country before using it.
 - Follow SpaceHuhn and read his blog https://blog.spacehuhn.com/deauth-attack-not-working to learn about the attack.
 - If you can offer some input on what you think is wrong feel free to let me know and I will try, at some point, to fix it.
 
-## Credits:
-* https://github.com/SpacehuhnTech/esp8266_deauther
-* https://github.com/M1z23R/ESP8266-EvilTwin
-* https://github.com/adamff1/ESP8266-Captive-Portal
+
 
 ## License 
 This software is licensed under the [MIT License](https://opensource.org/licenses/MIT).
